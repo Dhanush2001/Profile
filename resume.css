@@ -73,8 +73,11 @@ h2 {
     margin: 20px 0;
 }
 
-h3,p,li{
-    font-size: 1.4vw;
+a,h3,li{
+    font-size: 1.2vw;
+}
+.left div, .info-para{
+    font-size: 1.2vw;
 }
 
 /* Media queries for responsiveness */
